@@ -1,0 +1,17 @@
+.DS_Store
+/target/
+.classpath
+node_modules/
+node-v*/
+package-lock.json
+/dist
+/bin/
+/out/
+/build/
+/.gradle/
+/.settings/
+/.idea
+.project
+application.yml
+application.yaml
+application.conf
